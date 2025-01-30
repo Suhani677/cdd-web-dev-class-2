@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.css-1{
+      border: 5px solid rgb(164, 52, 71);
+      margin: 20px;
+      padding: 20px;
+      color: rgb(18, 75, 182);
+      background-color: pink;
+}
+
+.css-2{
+    border: 5px solid rgb(104, 29, 41);
+      margin: 20px;
+      padding: 20px;
+      color: rgb(10, 41, 97);
+      background-color: rgb(151, 55, 71);
+}
+
+.css-3{
+    border: 5px solid rgb(69, 14, 23);
+      margin: 20px;
+      padding: 20px;
+      color: rgb(2, 17, 44);
+      background-color: rgb(105, 6, 23);
+}
